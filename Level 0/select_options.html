@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>select_options</title>
+</head>
+<body>
+    <form>
+        <label for="Q1">Which is ur fav pl</label><br>
+        <select  name="Q1" id="Q1">
+            <optgroup label="web family">
+                <option value="Css">Css</option>
+                <option value="html">html</option>
+                <option value="Java Script">Java Script</option>
+                <option selected value="Python">Python</option>
+            </optgroup>
+            <optgroup label="C family">
+                <option value="C">C</option>
+                <option value="C++">C++</option>
+                <option value="C#">C#</option>
+            </optgroup>
+
+        </select><br>
+        <input type="submit">
+    </form>
+
+
+    <br>
+    <hr>
+    
+    <form>
+        <input list="language" name="lang">
+        <datalist id="language">
+            <optgroup label="web family">
+                <option value="Css">Css</option>
+                <option value="html">html</option>
+                <option value="Java Script">Java Script</option>
+                <option selected value="Python">Python</option>
+            </optgroup>
+            <optgroup label="C family">
+                <option value="C">C</option>
+                <option value="C++">C++</option>
+                <option value="C#">C#</option>
+            </optgroup>
+        </datalist>
+        <input type="submit">
+    </form>
+</body>
+</html>
