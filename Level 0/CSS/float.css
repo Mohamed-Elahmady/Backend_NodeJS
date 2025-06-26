@@ -1,0 +1,12 @@
+.con{
+    background-color: yellowgreen;
+}
+
+.con div{
+    float: left;
+    width:50px;
+}
+
+.clear{
+    clear: both;
+}

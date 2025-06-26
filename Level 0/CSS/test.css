@@ -1,0 +1,26 @@
+.p1{
+    color: blue;
+    font-size: 30px;
+}
+
+#p2{
+    color: yellow;
+    font-size: 30px;
+}
+
+div p{
+    color: aquamarine;
+}
+
+h1{
+    color: red;
+}
+
+input{
+    background-color: aqua;
+}
+
+input[type="text"]{
+    background-color: brown;
+    color: azure;
+}

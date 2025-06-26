@@ -1,0 +1,20 @@
+p{
+    width: 100%;
+    padding: 10px;
+    background-color: #aaa;
+    position: relative;
+}
+
+p::after{
+    content: ", And I am an Software Engineer.";
+}
+
+p::before{
+    content: "";
+    height: 5px;
+    width: 100%;
+    background-color: aqua;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}

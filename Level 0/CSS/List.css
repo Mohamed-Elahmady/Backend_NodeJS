@@ -1,0 +1,11 @@
+ul{
+    list-style-type: disc;
+    list-style-position: outside;
+    /* list-style-image: url("../media/Logo\ V1.1.0.PNG"); */
+	list-style: square inside;
+	/* list-style: url("../media/US.jpeg") inside; */
+}
+
+li{
+    background-color: aqua;
+}

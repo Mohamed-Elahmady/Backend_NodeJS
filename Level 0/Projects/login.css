@@ -1,0 +1,114 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+a{
+    color:cadetblue;
+}
+
+body{
+    background-color:rgb(220, 220, 220);
+}
+
+.up{
+    font-family: Arial, Helvetica, sans-serif;
+    display:inline-block;
+    position: absolute;
+    color: cadetblue;
+    top: 0;
+    right: 0;
+}
+
+.parent{
+    width: 300px;
+    height: 300px;
+
+    margin-top: 60px;
+    margin-left: 275px;
+    margin-right: 275px;
+    padding-left: 20px;
+    padding-top: 20px;
+    background-color: white;
+    border: 1px darkgray solid;
+    border-radius: 10px;
+
+    position: relative;
+}
+
+.tit{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger
+    p;
+}
+.nn{
+    font-size: 13px;
+}
+
+.pss{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+    padding-bottom: 10px;
+}
+
+.pass{
+    width: 260px;
+}
+
+.mm{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+}
+.cb:checked{
+    color: cadetblue;
+}
+
+.mt{
+    width:260px;
+}
+
+.lang{
+    width: 10px;
+}
+
+.show{
+    width: 15px;
+    position: absolute;
+    right: 75px;
+}
+
+.show_txt{
+    color: cadetblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    position: absolute;
+    right: 35px;
+    font-weight: lighter;
+}
+
+.tt{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    padding-bottom: 10px;
+}
+
+.sub{
+    padding-bottom: 10px;
+}
+
+.btn{
+    width: 60px;
+    height: 20px;
+    border-style: none;
+    border-radius: 7px;
+    background-color: cadetblue;
+    color: white;
+}
+
+.t1{
+    padding-right: 20px;
+}

@@ -1,0 +1,12 @@
+div h1{
+    color: violet;
+    font-family: cursive;
+    font-size: 22px;
+}
+div p{
+    color:tomato;
+    /* line-height: 10px;
+    letter-spacing: 9px; */
+    text-align: right;
+    direction: rtl;
+}

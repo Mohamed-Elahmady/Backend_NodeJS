@@ -1,0 +1,35 @@
+a{
+    color: red;
+    text-decoration: none;
+}
+
+a:hover{
+    color: green;
+}
+
+a:visited{
+    color: orange;
+}
+
+#cb :checked{
+    opacity: 0;
+}
+
+.txt:focus{
+    outline: none;
+    border: 2px green solid;
+}
+
+.pp::first-letter{
+    color: blue;
+    font-size: 50px;
+}
+
+.pp::first-line{
+    color: red;
+}
+
+::selection{
+    color: aliceblue;
+    background-color: orange;
+}

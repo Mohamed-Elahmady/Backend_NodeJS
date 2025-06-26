@@ -1,0 +1,13 @@
+.x{
+    height: 200px;
+    width: 200px;
+    border: 10px black solid;
+    background-color: rgb(22, 33, 99);
+    background-color: rgba(22, 34, 99, 0.768);
+    /* background-color: #ff0000; */
+    background-image: url("../media/Logo\ V1.1.0.PNG");
+    background-size: 30%;
+    background-repeat:no-repeat;
+    background-attachment: scroll;
+    background-position: 135px 10px;
+}

@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.x{
+    border: 7px green solid;
+    width: 50%;
+    height: 50%;
+	padding: 10px 15px;
+	margin: auto;
+    margin-top: 20px;
+    
+}

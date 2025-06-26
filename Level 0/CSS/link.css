@@ -1,0 +1,10 @@
+.link{
+    text-decoration: none;
+    color: red;
+    cursor:grab;
+}
+
+.link:hover{
+    color: blue;
+    font-size: 25px;
+}

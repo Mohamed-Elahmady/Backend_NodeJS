@@ -1,0 +1,8 @@
+.x{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border-width: 10px;
+    border-color: blue;
+    border-style:solid;
+}
